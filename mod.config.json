@@ -1,0 +1,9 @@
+{
+	"name": "SortingFix",
+	"author": "Doctor",
+	"version": "0.0.1",
+	"license": "None",
+	"src": {
+		"src/init.js": "TamperModLoad"
+	}
+}
